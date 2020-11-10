@@ -1,0 +1,15 @@
+D:\Project\临时项目\HikPlayer\HikPlayer\obj\Debug\HikPlayer.Form1.resources
+D:\Project\临时项目\HikPlayer\HikPlayer\obj\Debug\HikPlayer.Properties.Resources.resources
+D:\Project\临时项目\HikPlayer\HikPlayer\obj\Debug\HikPlayer.csproj.GenerateResource.cache
+D:\Project\临时项目\HikPlayer\HikPlayer\obj\Debug\HikPlayer.csproj.CoreCompileInputs.cache
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\AudioRender.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\HXVA.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\MP_VIE.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\OpenAL32.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\PlayCtrl.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\SuperRender.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HickPlayerSDK\YUVProcess.dll
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HikPlayer.exe
+D:\Project\临时项目\HikPlayer\HikPlayer\bin\Debug\HikPlayer.pdb
+D:\Project\临时项目\HikPlayer\HikPlayer\obj\Debug\HikPlayer.exe
+D:\Project\临时项目\HikPlayer\HikPlayer\obj\Debug\HikPlayer.pdb

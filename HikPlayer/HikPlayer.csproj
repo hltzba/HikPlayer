@@ -50,7 +50,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="HickPlayerSDK\HikPlayer.cs" />
+    <Compile Include="HikPlayerSDK\HikPlayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -76,25 +76,25 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HickPlayerSDK\AudioRender.dll">
+    <Content Include="HikPlayerSDK\AudioRender.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="HickPlayerSDK\HXVA.dll">
+    <Content Include="HikPlayerSDK\HXVA.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="HickPlayerSDK\MP_VIE.dll">
+    <Content Include="HikPlayerSDK\MP_VIE.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="HickPlayerSDK\OpenAL32.dll">
+    <Content Include="HikPlayerSDK\OpenAL32.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="HickPlayerSDK\PlayCtrl.dll">
+    <Content Include="HikPlayerSDK\PlayCtrl.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="HickPlayerSDK\SuperRender.dll">
+    <Content Include="HikPlayerSDK\SuperRender.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="HickPlayerSDK\YUVProcess.dll">
+    <Content Include="HikPlayerSDK\YUVProcess.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
